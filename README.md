@@ -1,0 +1,165 @@
+# TÉRMINOS Y CONDICIONES DE USO
+**Última actualización: 07 de septiembre de 2026**
+
+--------------------------------------------------------------------
+1. ACEPTACIÓN DE LOS TÉRMINOS
+--------------------------------------------------------------------
+Al descargar, instalar o utilizar la Aplicación, el usuario ("el
+Usuario") declara haber leído, comprendido y aceptado en su totalidad
+los presentes Términos y Condiciones. Si no está de acuerdo con
+alguno de los puntos aquí establecidos, debe abstenerse de instalar
+o utilizar la Aplicación.
+
+--------------------------------------------------------------------
+2. DESCRIPCIÓN DEL SERVICIO
+--------------------------------------------------------------------
+CICU112 Desktop es una aplicación de escritorio que actúa como
+plugin/complemento de intercomunicación y avisos, permitiendo al
+Usuario:
+
+  a) Recibir notificaciones de avisos y llamadas asignadas a través
+     de canales vinculados a su cuenta/clave de plugin.
+  b) Activar o desactivar la escucha de canales específicos.
+  c) Asignar atajos de teclado configurables por el propio Usuario
+     para:
+       - Activar/silenciar canales de intercom.
+       - Responder rápidamente al último canal desde el que se ha
+         recibido comunicación ("responder al último"), sin
+         necesidad de que la ventana de la Aplicación tenga el foco.
+
+Para que estos atajos funcionen incluso cuando la Aplicación no está
+en primer plano, la Aplicación utiliza un mecanismo de captura de
+teclado a nivel de sistema operativo (hook global). Este mecanismo
+se limita exclusivamente a detectar si la tecla pulsada coincide con
+la combinación previamente configurada por el propio Usuario para
+una función concreta (silenciar/activar canal, responder al último).
+
+--------------------------------------------------------------------
+3. QUÉ NO HACE LA APLICACIÓN
+--------------------------------------------------------------------
+Para evitar cualquier ambigüedad respecto al uso del mecanismo
+descrito en la sección 2:
+
+  a) La Aplicación NO registra, almacena, transmite ni envía a
+     ningún servidor el contenido de las pulsaciones de teclado del
+     Usuario, salvo la detección puntual de la combinación de teclas
+     que el propio Usuario ha configurado para activar una función
+     concreta de la Aplicación.
+  b) La Aplicación NO captura ni registra texto escrito por el
+     Usuario en otras aplicaciones, formularios, contraseñas,
+     mensajes o documentos.
+  c) La Aplicación NO funciona como software de keylogging,
+     vigilancia encubierta, monitorización remota de terceros ni
+     software espía. Su único propósito es facilitar accesos
+     directos de teclado para las funciones de intercomunicación
+     descritas en estos Términos.
+  d) La Aplicación NO accede a la cámara, micrófono del sistema,
+     archivos personales, historial de navegación ni a ningún otro
+     dato del dispositivo salvo lo estrictamente necesario para su
+     funcionamiento (configuración de canales y atajos).
+
+--------------------------------------------------------------------
+4. CUENTA Y CLAVE DE PLUGIN (PLUGIN KEY)
+--------------------------------------------------------------------
+El acceso a la Aplicación requiere una clave de vinculación
+("Plugin Key") asociada a la cuenta del Usuario. El Usuario es el
+único responsable de:
+
+  a) Mantener la confidencialidad de su Plugin Key.
+  b) El uso que se haga de la Aplicación mientras esté vinculada a
+     su clave.
+  c) Notificar cualquier uso no autorizado de su clave tan pronto
+     como tenga conocimiento de ello.
+
+--------------------------------------------------------------------
+5. PROPIEDAD INTELECTUAL Y PROHIBICIÓN DE COPIA
+--------------------------------------------------------------------
+La Aplicación, su código fuente, diseño de interfaz, logotipos,
+nombre comercial y cualquier otro elemento que la componga son
+propiedad de CICU112 y/o de sus desarrolladores, y están protegidos
+por la normativa de propiedad intelectual e industrial aplicable.
+
+Queda expresamente prohibido, salvo autorización previa y por
+escrito del titular:
+
+  a) Copiar, reproducir, distribuir o redistribuir la Aplicación, en
+     todo o en parte, por cualquier medio o formato.
+  b) Descompilar, realizar ingeniería inversa, desensamblar o
+     intentar de cualquier otro modo extraer el código fuente de la
+     Aplicación, salvo en los supuestos permitidos por la ley
+     aplicable con carácter imperativo.
+  c) Modificar, adaptar, traducir o crear obras derivadas a partir
+     de la Aplicación.
+  d) Utilizar la Aplicación, su marca o su interfaz para desarrollar
+     un producto o servicio competidor.
+  e) Sublicenciar, vender, alquilar, prestar o ceder de cualquier
+     forma la Aplicación a terceros.
+
+El incumplimiento de lo anterior podrá dar lugar a la revocación
+inmediata del acceso a la Aplicación, sin perjuicio de las acciones
+legales que correspondan.
+
+--------------------------------------------------------------------
+6. OBLIGACIONES DEL USUARIO
+--------------------------------------------------------------------
+El Usuario se compromete a:
+
+  a) Utilizar la Aplicación conforme a su finalidad y a la
+     normativa vigente.
+  b) No emplear la Aplicación con fines fraudulentos, ilícitos o que
+     puedan dañar, inutilizar o sobrecargar los sistemas asociados.
+  c) No intentar vulnerar las medidas de seguridad de la Aplicación
+     ni de los servicios a los que ésta se conecta.
+  d) Instalar la Aplicación únicamente en dispositivos sobre los
+     que tenga autorización de uso, y no emplearla para monitorizar
+     o interceptar la actividad de terceros sin su consentimiento.
+
+--------------------------------------------------------------------
+7. DISPONIBILIDAD Y FUNCIONES EN DESARROLLO
+--------------------------------------------------------------------
+Algunas funciones de la Aplicación pueden mostrarse en la interfaz
+como "Próximamente" o en fase de desarrollo, no estando disponibles
+para su uso hasta que se publique la versión correspondiente. La
+inclusión visual de estas funciones no implica compromiso de fecha
+de disponibilidad ni garantía de sus características finales.
+
+--------------------------------------------------------------------
+8. LIMITACIÓN DE RESPONSABILIDAD
+--------------------------------------------------------------------
+La Aplicación se proporciona "tal cual" ("as is"). CICU112 no
+garantiza que el servicio esté libre de interrupciones, errores o
+que sea absolutamente ininterrumpido, y no será responsable de:
+
+  a) Daños derivados de la imposibilidad de recibir un aviso por
+     causas ajenas a la Aplicación (fallos de conexión a Internet,
+     del dispositivo, del sistema operativo o de terceros
+     proveedores).
+  b) El uso indebido que el Usuario haga de la Aplicación o de los
+     atajos de teclado configurados.
+  c) Pérdidas derivadas de la divulgación de la Plugin Key por
+     negligencia del Usuario.
+
+--------------------------------------------------------------------
+9. MODIFICACIONES DE LOS TÉRMINOS
+--------------------------------------------------------------------
+CICU112 podrá modificar los presentes Términos y Condiciones en
+cualquier momento. Las modificaciones serán comunicadas a través de
+la propia Aplicación o de los canales oficiales, y entrarán en vigor
+desde su publicación. El uso continuado de la Aplicación tras dicha
+publicación implicará la aceptación de los nuevos términos.
+
+--------------------------------------------------------------------
+10. RESOLUCIÓN Y TERMINACIÓN
+--------------------------------------------------------------------
+CICU112 se reserva el derecho a suspender o cancelar el acceso a la
+Aplicación de cualquier Usuario que incumpla los presentes Términos,
+sin necesidad de aviso previo cuando el incumplimiento sea grave
+(incluyendo, entre otros, la copia o distribución no autorizada de
+la Aplicación).
+
+--------------------------------------------------------------------
+11. CONTACTO
+--------------------------------------------------------------------
+Para cualquier duda relativa a estos Términos y Condiciones, el
+Usuario puede ponerse en contacto con el desarrollador a través
+del MD (elchetos1) o abriendo ticket en el servidor de *Costa Blanca PD*. 
